@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-
-
-
 class RTSLabs:
     
     def __init__(self):
@@ -33,7 +29,6 @@ class RTSLabs:
 #test cases (uncomment to run)
 
 #1. success
-
 myObj = RTSLabs() 
 myList = [1,8,2,8,4,76,3,2,9]
 myInt = 4
